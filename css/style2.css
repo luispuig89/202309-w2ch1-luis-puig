@@ -3,7 +3,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: Josefin Sans;
+  font-family: Josefin Sans, sans-serif;
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 .header__logo {
-  width: 7rem;
+  width: 7girem;
   padding-left: 2rem;
   padding-top: 2rem;
 }
