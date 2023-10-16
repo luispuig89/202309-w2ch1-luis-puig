@@ -1,0 +1,13 @@
+{
+  "name": "202309-w2ch1-luis-puig",
+  "version": "1.0.0",
+  "description": "Week 2 Challenge 1",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss:css -w --no-source-map",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
